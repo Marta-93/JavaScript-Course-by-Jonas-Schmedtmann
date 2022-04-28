@@ -2,7 +2,7 @@
 
 let country = 'Italy';
 let continent = 'Europe';
-let population = '59.55 million';
+let population = 59.55;
 
 console.log(country);
 console.log(continent);
