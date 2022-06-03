@@ -33,6 +33,7 @@ const markHigherBMI = BMIMark > BMIJohn;
 console.log(BMIJohn, BMIMark, markHigherBMI);
 
 
+//CODING CHALLENGE #2
 /*Use the BMI example from Challenge #1, and the code you already wrote, and 
 improve it.
 Your tasks:
